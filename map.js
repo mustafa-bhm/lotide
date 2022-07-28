@@ -36,5 +36,5 @@ console.log("final output for result", results1);
 
 //// Test data
 
-assertArraysEqual(words, results1); // => should faild
+assertArraysEqual(words, results1); // => should fail
 assertArraysEqual(words, results2); // => should pass
