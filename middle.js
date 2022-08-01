@@ -1,6 +1,3 @@
-const eqArrays = require("./eqArrays");
-const assertArraysEqual = require("./assertArraysEqual");
-
 const middle = function (arr) {
   let result = [];
   // to get the index of the mid number
